@@ -32,7 +32,7 @@ All talks presented at PyData Delhi 2017:
 |25|Deep Learning for Semantic Segmentation  | Vyom Sharma | - | - |_in process_|
 |26|Winning Vision through DenseNets | Manan Singh | - | - |_in process_|
 |27|Encoder Decoder Architecture| Navya Agarwal | - | - |_in process_|
-|28|Stephanie \| Virtual assistant at your service | Ujjwal Gupta| - | - |_in process_|
+|28|Stephanie \| Virtual assistant at your service | Ujjwal Gupta| https://github.com/SlapBot/PyData-Conf | SlapBot |_in process_|
 |29|Understanding Clustering: Supervising the unsupervised| Janu Verma | - | - |_in process_|
 |30|Deep (Neural) Language Models| Kashyap Raval | - | - |_in process_|
 |31|Beyond Clicks: Deep Sequential Models for Task Satisfaction Prediction with Conversational Agents| Rishabh Mehrotra | - | - |_in process_|
