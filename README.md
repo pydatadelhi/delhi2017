@@ -12,7 +12,7 @@ All talks presented at PyData Delhi 2017:
 |5|Recent Advances in NLP | Anuj Gupta | - |@anujgupta82|_in process_|
 |6|Regression Analysis - The good, the bad and the untold| Jalem Raj Rohit|-|Dawny33, @data__wizard|_in process_|
 |7|Things to know while choosing a Deep Learning library| Saurabh Agarwal| - | - |_in process_|
-|8|Topic Modelling with Gensim| Parul Sethi| - | @parul1sethi |_in process_|
+|8|Topic Modelling with Gensim| Parul Sethi| https://github.com/parulsethi/PydataDelhi2017 | @parul1sethi |_in process_|
 |9|Proximal Policy Optimization : The new kid in the RL jungle| Shubham Gupta| http://Sh.ubham.com/rltalk17 | @shubham0075_1 |_in process_|
 |10|Building camera based intelligent applications| Nabarun Pal| - | @nabar0n |_in process_|
 |11|Difficulties in working with the government data and how can tech help us resolve it| Ankita Mathur| - | - |_in process_|
