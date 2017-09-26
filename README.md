@@ -30,7 +30,7 @@ All talks presented at PyData Delhi 2017:
 |22|Managing Machine Learning Models in Production| Anand Chitipothu | - | - |_in process_|
 |23|Text Classification using Convolutional Neural Networks in Tensorflow (NLP using DL) | Ronit Kishore | - | - |_in process_|
 |24|Altair: Declarative Visualizations in Python | Nipun Batra | - | @nipun_batra |_in process_|
-|25|Deep Learning for Semantic Segmentation  | Vyom Sharma | - | - |_in process_|
+|25|Deep Learning for Semantic Segmentation  | Vyom Sharma | [Semantic Segmentation](https://goo.gl/iTFT5q) | [@VCrizpy](https://twitter.com/VCrizpy) |_in process_|
 |26|Winning Vision through DenseNets | Manan Singh | - | - |_in process_|
 |27|Encoder Decoder Architecture| Navya Agarwal | - | - |_in process_|
 |28|Stephanie \| Virtual assistant at your service | Ujjwal Gupta| https://github.com/SlapBot/PyData-Conf | SlapBot |_in process_|
