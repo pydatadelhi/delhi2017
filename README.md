@@ -18,8 +18,7 @@ All talks presented at PyData Delhi 2017:
 |11|Difficulties in working with the government data and how can tech help us resolve it| Ankita Mathur| - | - |_in process_|
 |12|Using RNNs to implement a Full Adder using PyTorch| Madhur Tandon| - | - |_in process_|
 |13|Deriving insights in minutes from serverless IoT Data Pipeline| Narendran R| - | - |_in process_|
-|14|Machine Learning Architectures | Shagun Sodhani| [Machine Learning Architectures](http://slides.com/shagunsodhani/pydata2017#/) | [@shagunsodhani](https://twitter.com/shagunsodhani)
-  |_in process_|
+|14|Machine Learning Architectures | Shagun Sodhani| [Machine Learning Architectures](http://slides.com/shagunsodhani/pydata2017#/) | [@shagunsodhani](https://twitter.com/shagunsodhani)|_in process_|
 |15|Information Diffusion in a Twitter Network| Sagar Chand Agarwal | - | - |_in process_|
 |16|Interestingness of interestingness measures | Simrat Hanspal | - | - |_in process_|
 |17|Dimensionality Reduction Techniques - "You can compress!"| Manan Singh | - |@mananpal1997|_in process_|
