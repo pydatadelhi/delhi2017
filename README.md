@@ -36,7 +36,7 @@ All talks presented at PyData Delhi 2017:
 |29|Understanding Clustering: Supervising the unsupervised| Janu Verma | - | - |_in process_|
 |30|Deep (Neural) Language Models| Kashyap Raval | - | - |_in process_|
 |31|Beyond Clicks: Deep Sequential Models for Task Satisfaction Prediction with Conversational Agents| Rishabh Mehrotra | - | - |_in process_|
-|32|Decoding Neural Image Captioning | Sachin Kumar | - |sachin-kmr|_in process_|
+|32|Decoding Neural Image Captioning | Sachin Kumar | [Decoding Neural Image Captioning](https://slides.com/sachinkmr/neural-image-captioning) | [@sachinkmr_](https://twitter.com/sachinkmr_) , [sachin-kmr](https://github.com/sachin-kmr) |_in process_|
 |33|Real-time log analytics using Probabilistic Data Structures in Redis| Srinivasan Rangarajan | - | - |_in process_|
 |34|Pay Some Attention! | Prakhar Srivastava | - | - |_in process_|
 |35|Machine Learning as a Service | Anand Chitipothu | - | - |_in process_|
